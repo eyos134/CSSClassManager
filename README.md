@@ -16,7 +16,7 @@ The \`ClassManager\` class provides a flexible way to manipulate CSS classes on 
 ## Installation
 
 \`\`\`bash
-npm install unify-learn-class-manager
+npm install ul-css-class-manager
 \`\`\`
 
 ## Usage
@@ -26,12 +26,15 @@ npm install unify-learn-class-manager
 #### Constructor
 
 \`\`\`javascript
-import { ClassManager } from 'unify-learn-class-manager';
+import { ClassManager, StaticClassManager } from 'ul-css-class-manager';
 
 const element = document.getElementById('exampleElement');
 const className = 'exampleClass';
 
 const classManager = new ClassManager(element, className);
+
+const otherElement = document.getElementById('otherExampleElement');
+StaticClassManager.addClass(otherElement, className);
 \`\`\`
 
 // ... (rest of the content)
