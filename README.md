@@ -16,7 +16,7 @@ The \`ClassManager\` class provides a flexible way to manipulate CSS classes on 
 ## Installation
 
 \`\`\`bash
-npm install ul-css-class-manager
+npm install ul-css-class-manager@1.0.0
 \`\`\`
 
 ## Usage
