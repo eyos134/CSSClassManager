@@ -52,13 +52,13 @@
 **## Installation**
 
 ```bash
-npm install classmanager
+npm install ul-css-class-manager
 ```
 
 **## Import**
 
 ```javascript
-import { ClassManager, StaticClassManager } from 'classmanager';
+import { ClassManager, StaticClassManager } from '/path/to/your/ul-css-class-manager/index.js';
 ```
 
 **## Usage**
