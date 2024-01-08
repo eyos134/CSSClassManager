@@ -51,8 +51,13 @@
 
 **## Installation**
 
+* npm*
 ```bash
 npm install ul-css-class-manager
+```
+* github CLI*
+```bash
+gh repo clone ermi111/CSSClassManager
 ```
 
 **## Import**
