@@ -33,8 +33,8 @@ export class ClassManager {
 
     /**
      * @constructor
-     * @param {HTMLElement} element - The HTML element to add the class to.
-     * @param {string} className - The name of the CSS class to add.
+     * @param {HTMLElement} element - The HTML element to manipulate the class to.
+     * @param {string} className - The name of the CSS class to be manipulated.
      */
     constructor(element, className) {
         this.element = element;
