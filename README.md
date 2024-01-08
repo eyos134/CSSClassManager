@@ -84,5 +84,3 @@ classManager.toggleClassOnEvent(myElement, 500); // Delay of 500 milliseconds
 
 - **License:** Apache-2.0
 - **Author:** Ermiyas Arage
-
-**## See the full documentation for more details and examples.**
