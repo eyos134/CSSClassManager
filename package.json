@@ -1,0 +1,23 @@
+{
+  "name": "ul-css-class-manager",
+  "version": "1.0.1",
+  "description": "Manage you CSS class just with a two classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ermi111/CSSClassManager.git"
+  },
+  "keywords": [
+    "ClassManager",
+    "StaticClassManager"
+  ],
+  "author": "Ermiyas Arage",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ermi111/CSSClassManager/issues"
+  },
+  "homepage": "https://github.com/ermi111/CSSClassManager#readme"
+}
